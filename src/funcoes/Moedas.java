@@ -52,7 +52,7 @@ public class Moedas implements Conversores {
 
             while (true) {
                 botaoPressionado = JOptionPane.showOptionDialog(null, quadro, Navegacao.TITULO, JOptionPane.NO_OPTION,
-                        JOptionPane.QUESTION_MESSAGE, null, Navegacao.BOTAO, null);
+                        JOptionPane.QUESTION_MESSAGE, null, Navegacao.CONVERT, null);
 
                 if (botaoPressionado == 0) {
 
@@ -62,12 +62,12 @@ public class Moedas implements Conversores {
                         opcao2Selecionada = (String) opcoesLista2.getSelectedItem();
                         break;
                     } catch (NumberFormatException e) {
-                        JOptionPane.showMessageDialog(null, Navegacao.AVISO_MENSAGEM, Navegacao.TITULO, 0);
+                        JOptionPane.showMessageDialog(null, Navegacao.ERROR_MSG, Navegacao.TITULO, 0);
                         valor.setText("");
                     }
     
                 } else {
-                    throw new RuntimeException("Função encerrada.");
+                    throw new RuntimeException("Conversor finalizado.");
                 }
             }
 
@@ -91,7 +91,7 @@ public class Moedas implements Conversores {
 
 
             botaoPressionado = JOptionPane.showOptionDialog(null, "Deseja fazer outra conversão?", Navegacao.TITULO, 0, 3,
-                    null, Navegacao.BOTOES_CONFIRMACAO, null);
+                    null, Navegacao.YES_NO, null);
 
             if (botaoPressionado != 0) {
                 break;
