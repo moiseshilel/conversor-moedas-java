@@ -8,11 +8,17 @@ Neste desafio foi designado que fosse desenvolvido um conversor de moedas, com v
 ### Requisitos do Convesor de Moedas:
 
 O conversor de moedas deveria aceitar as seguintes conversões:
+
     * Reais a Dólar
+    
     * Reais a Euro
+    
     * Reais a Libras Esterlinas
+    
     * Reais a Peso argentino
+    
     * Reais a Peso Chileno
+    
 
 Obs.: Também era necessário aceitar toda conversão inversa.
 
