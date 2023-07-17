@@ -30,6 +30,39 @@ Não foi usado valores prefixados na conversão de moedas , para tornar a experi
 
 #### Funções Desenvolvidas:
 
-![Tela - Menu Principal](resources/03-temperatura.png)
+![Tela - Menu Principal](imgs/menu-principal.png)
+___________________________________
 
+![Tela - Menu Principal](imgs/conversor-moeda.png)
 
+       ### Moedas disponiveis para conversão:
+      
+       * BRL - Real Brasileiro
+       * USD - Dólar Americano
+       * EUR - Euro
+       * GBP - Libra Esterlina
+       * ARS - Peso Argentino
+       * CLP - Peso Chileno
+       * JPY - Iene Japonês
+       * CNY - Yuan Chinês
+
+___________________________________
+
+![Tela - Menu Principal](imgs/conversor-temperatura.png.png)
+
+        ### Temperaturas disponiveis para conversão:
+
+        * Celsius
+        * Fahrenheit
+        * Kelvin
+
+![Tela - Menu Principal](imgs/conversor-medidas.png.png)
+
+        ### Medidas de comprimento disponiveis para conversão:
+
+        * Metros
+        * Decímetros
+        * Centímetros
+        * Milímetros
+
+***
