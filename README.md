@@ -55,6 +55,7 @@ ___________________________________
         * Celsius
         * Fahrenheit
         * Kelvin
+___________________________________
 
 ![Tela - Conversor de Medidas](imgs/conversor-medidas.png)
 
@@ -65,4 +66,4 @@ ___________________________________
         * Centímetros
         * Milímetros
 
-***
+___________________________________
