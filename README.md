@@ -33,7 +33,7 @@ Não foi usado valores prefixados na conversão de moedas , para tornar a experi
 ![Tela - Menu Principal](imgs/menu-principal.png)
 ___________________________________
 
-![Tela - Menu Principal](imgs/conversor-moeda.png)
+![Tela - Convesor de Moedas](imgs/conversor-moeda.png)
 
        ### Moedas disponiveis para conversão:
       
@@ -48,7 +48,7 @@ ___________________________________
 
 ___________________________________
 
-![Tela - Menu Principal](imgs/conversor-temperatura.png.png)
+![Tela - Conversor de Temperaturas](imgs/conversor-temperatura.png)
 
         ### Temperaturas disponiveis para conversão:
 
@@ -56,7 +56,7 @@ ___________________________________
         * Fahrenheit
         * Kelvin
 
-![Tela - Menu Principal](imgs/conversor-medidas.png.png)
+![Tela - Conversor de Medidas](imgs/conversor-medidas.png)
 
         ### Medidas de comprimento disponiveis para conversão:
 
